@@ -35,9 +35,7 @@ Which regions generate the highest revenue
 Which product categories are most profitable
 How discounts affect profit
 Which customer segments drive sales
-Yearly sales growth trends
-
-…can be difficult when using raw spreadsheets or traditional reports.
+Yearly sales growth trends can be difficult when using raw spreadsheets or traditional reports.
 
 • Goal of the Dashboard
 The main goal of this dashboard is to provide an interactive business intelligence solution that:
